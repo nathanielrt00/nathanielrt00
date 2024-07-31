@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nathaniel
+- 👋 Hi, I’m Nathaniel!
 - 👀 I’m interested in computer programs, system networks, and problem solving.
-- 🌱 I’m currently learning computer science and cybersecurity
-- 💞️ I’m looking to collaborate on projects to gain experience
-- 📫 How to reach me ...
+- 🌱 I’m currently learning computer science and cybersecurity.
+- 💞️ I’m looking to collaborate on projects to gain experience.
+- 📫 How to reach me: E-Mail.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel and I'm always looking for ways to expand my skill set!
 - 🤵🏽‍♂️ Professional statement:
